@@ -33,7 +33,4 @@ This is the Express-based server for **Pro Gear**, handling authentication, equi
 - Server hosted on Vercel
 - MongoDB Atlas for database
 
-## 🧑‍💻 Developer
-
-Developed by [Moinul Hasan]  
-📫 Contact: moinulh.msn@gmail.com  
+ 
